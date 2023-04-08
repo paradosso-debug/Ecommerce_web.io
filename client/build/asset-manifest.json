@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25ae2576.css",
+    "main.js": "/static/js/main.c881f180.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/corkregister.jpg": "/static/media/corkregister.078e7ac588f8a9f3a820.jpg",
+    "index.html": "/index.html",
+    "main.25ae2576.css.map": "/static/css/main.25ae2576.css.map",
+    "main.c881f180.js.map": "/static/js/main.c881f180.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25ae2576.css",
+    "static/js/main.c881f180.js"
+  ]
+}
